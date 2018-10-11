@@ -1,0 +1,73 @@
+[
+    { 
+        "id": 1,
+        "name": "Aragorn",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Aragorn300ppx.png/150px-Aragorn300ppx.png"
+    },
+
+    { 
+        "id": 2,
+        "name": "Aragorn2",
+        "image": "https://i.pinimg.com/originals/4f/37/e4/4f37e46b043c7d99fa69f6b41d73a28b.jpg"
+    },
+
+    { 
+        "id": 3,
+        "name": "Aragorn3",
+        "image": "https://cdn.vox-cdn.com/thumbor/8mYajDzWIyV-1czVzbbzRydQstg=/0x0:3615x2425/1200x800/filters:focal(1546x587:2124x1165)/cdn.vox-cdn.com/uploads/chorus_image/image/59765763/aragorn.0.jpg"
+    },
+
+    { 
+        "id": 4,
+        "name": "Gandalf",
+        "image": "https://vignette.wikia.nocookie.net/lotr/images/8/8d/Gandalf-2.jpg/revision/latest?cb=20130209172436"
+    },
+
+    { 
+        "id": 5,
+        "name": "Gandalf2",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Gandalf600ppx.jpg/220px-Gandalf600ppx.jpg"
+    },
+
+    { 
+        "id": 6,
+        "name": "Gandalf3",
+        "image": "https://images.hellogiggles.com/uploads/2017/12/17022221/picture-of-lotr-gandalf-photo.jpg"
+    },
+
+    { 
+        "id": 7,
+        "name": "Legolas",
+        "image": "https://vignette.wikia.nocookie.net/edain-mod/images/d/da/Legolas_portrait_-_EmpireMag.jpg/revision/latest?cb=20160121163945"
+    },
+
+    { 
+        "id": 8,
+        "name": "Legolas2",
+        "image": "https://www.slashfilm.com/wp/wp-content/images/Hobbit-Smaug-Poster-Legolas-header.jpg"
+    },
+
+    { 
+        "id": 9,
+        "name": "Legolas3",
+        "image": "https://latimesherocomplex.files.wordpress.com/2011/05/orlando-legolas2.jpeg?w=600"
+    },
+
+    { 
+        "id": 10,
+        "name": "Gimli",
+        "image": "https://i.stack.imgur.com/dDzEo.jpg"
+    },
+
+    { 
+        "id": 11,
+        "name": "Gimli2",
+        "image": "https://vignette.wikia.nocookie.net/edain-mod/images/4/43/Gimli.jpg/revision/latest?cb=20160418154306"
+    },
+
+    { 
+        "id": 12,
+        "name": "Gimli3",
+        "image": "https://vignette.wikia.nocookie.net/deathbattlefanon/images/f/fa/Gimli_bijl.jpg/revision/latest?cb=20171231122136"
+    }
+]

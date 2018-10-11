@@ -1,0 +1,10 @@
+.score {
+    float: right;
+    padding-right: 50px;
+    padding-top: 20px;
+    color: rgb(103, 172, 46);
+    font-size: 2rem;
+    list-style-type: none;
+    font-family: 'Cinzel', serif;
+
+}
